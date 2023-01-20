@@ -1,0 +1,15 @@
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\bin\Debug\net6.0\testing-libraries-example.exe
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\bin\Debug\net6.0\testing-libraries-example.deps.json
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\bin\Debug\net6.0\testing-libraries-example.runtimeconfig.json
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\bin\Debug\net6.0\testing-libraries-example.dll
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\bin\Debug\net6.0\testing-libraries-example.pdb
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.csproj.AssemblyReference.cache
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.AssemblyInfoInputs.cache
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.AssemblyInfo.cs
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.csproj.CoreCompileInputs.cache
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.dll
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\refint\testing-libraries-example.dll
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.pdb
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\testing-libraries-example.genruntimeconfig.cache
+D:\Users\cverdi\dev\testing-libraries-example\testing-libraries-example\obj\Debug\net6.0\ref\testing-libraries-example.dll
